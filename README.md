@@ -35,7 +35,7 @@ npm run dev
 
 3) Acesse o endereço  na web:
 
- https://linke-tree-tau.vercel.app/
+ https://linke-tree-tau.vercel.app/login
 
 ## Scripts
 
