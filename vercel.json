@@ -1,0 +1,21 @@
+
+
+{
+    "rewrites": [
+        {
+            "source": "/api/(.*)",
+            "destination": "/api/$1",
+            "headers": {
+                "Content-Type": "application/json"
+            }
+        },
+        {
+            "source": "/(.*)",
+            "destination": "/home/$1"
+        },
+        {
+            "source": "/(.*)",
+            "destination": "/home/$1"
+        }
+    ]
+}
