@@ -33,9 +33,9 @@ npm install
 npm run dev
 ```
 
-3) Acesse o endereço exibido no terminal (normalmente):
+3) Acesse o endereço  na web:
 
-- http://localhost:5173/
+ https://linke-tree-tau.vercel.app/
 
 ## Scripts
 
